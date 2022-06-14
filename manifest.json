@@ -1,0 +1,8 @@
+{
+    "name": "Work Shift PWA",
+    "short_name": "WS_PWA",
+    "start_url": ".",
+    "icons": [],
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
